@@ -442,6 +442,12 @@ img {
 	min-height: 1px;
 	float: left;
 }
+.columns_p{
+	position: relative;
+	padding: 0 86px;
+	min-height: 1px;
+	float: left;
+}
 
 .column.centered,
 .columns.centered {
