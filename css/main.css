@@ -640,8 +640,9 @@ main .site-header .logo a {
 	}
 
 	main .site-header .logo a {
-		width: 95px;
-		height: 66px;
+		width: 300px;
+		height: 60px;
+		right: 0px;
 	}
 
 }
